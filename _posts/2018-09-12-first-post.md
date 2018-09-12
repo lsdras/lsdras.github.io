@@ -23,4 +23,4 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-talk]: https://talk.jekyllrb.com/
 
 
-한글도 바로 
+한글도 바로 써지나?
