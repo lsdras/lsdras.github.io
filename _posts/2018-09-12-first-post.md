@@ -1,6 +1,6 @@
 ---
 title: "First Post"
-date: 2017-10-20 08:26:28 -0400
+date: 2018-09-12
 categories: practice
 ---
 
@@ -21,3 +21,6 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
+
+
+한글도 바로 
