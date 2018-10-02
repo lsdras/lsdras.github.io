@@ -21,3 +21,5 @@ AlexNet, VGG net, GoogLeNet 등 최근의 분류 네트워크들을 FCN으로 �
 
 # Intro
 
+Convnet(컨볼루션 네트워크를 이렇게 줄여 쓰네요)의 발전을 얘기하면서, 전체 이미지 분류 뿐만 아니라, 구조화된 output을 내는 과정에서 국소적인 작업까지도 발전했다 하면서, 예시로 bounding box detection, part&keypoint detection, local correspondence를 들고 있습니다.
+
